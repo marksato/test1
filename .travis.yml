@@ -1,1 +1,11 @@
 language: C
+compiler: clang
+
+#install:make get-deps
+
+#script:clang -g main.c -o main.o
+
+#after_success:
+
+#after_failure:
+
